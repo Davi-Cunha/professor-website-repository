@@ -11,7 +11,7 @@ if ($topMost == __FILE__) {
                         <div class=\"col-md-4\">
                             <article>
                                 <header>
-                                    <h2>Direito Penal</h2>
+                                    <h2 class=\"text-center\">Direito Penal</h2>
                                     <div class=\"\">
             
                                     </div>
@@ -21,14 +21,14 @@ if ($topMost == __FILE__) {
                         <div class=\"col-md-4\">
                             <article>
                                 <header>
-                                    <h2>Direito Penal</h2>
+                                    <h2 class=\"text-center\">Direito Penal</h2>
                                 </header>
                             </article>
                         </div>
                         <div class=\"col-md-4\">
                             <article>
                                 <header>
-                                    <h2>Direito Penal</h2>
+                                    <h2 class=\"text-center\">Direito Penal</h2>
                                 </header>
                             </article>
                         </div>
@@ -45,7 +45,7 @@ if ($topMost == __FILE__) {
                                     <button type=\"button\" class=\"btn btn-info\" data-toggle=\"collapse\" data-target=\"#eng-civil\">
                                         <i class=\"fa fa-building-o\" aria-hidden=\"true\"></i>
                                     </button>
-                                    <h2>Engenharia Civil</h2>
+                                    <h2 class=\"text-center\">Engenharia Civil</h2>
                                 </header>
                                 <div class=\"conteudo collapse\" id=\"eng-civil\">
                                     <ul>
@@ -69,7 +69,7 @@ if ($topMost == __FILE__) {
                                     <button type=\"button\" class=\"btn btn-info\" data-toggle=\"collapse\" data-target=\"#eng-mec\">
                                         <i class=\"fa fa-cogs\" aria-hidden=\"true\"></i>
                                     </button>
-                                    <h2>Engenharia Mecânica</h2>
+                                    <h2 class=\"text-center\">Engenharia Mecânica</h2>
                                 </header>
                                 <div class=\"conteudo collapse\" id=\"eng-mec\">
                                     <ul>
@@ -94,7 +94,7 @@ if ($topMost == __FILE__) {
                                     <button type=\"button\" class=\"btn btn-info\" data-toggle=\"collapse\" data-target=\"#adm-eco1\">
                                         <i class=\"fa fa-money\" aria-hidden=\"true\"></i>
                                     </button>
-                                    <h2>Admistração e Economia</h2>
+                                    <h2 class=\"text-center\">Administração e Economia</h2>
                                 </header>
                                 <div class=\"conteudo collapse\" id=\"adm-eco1\">
                                     <ul>
@@ -116,7 +116,7 @@ if ($topMost == __FILE__) {
                                         <i class=\"fa fa-money\" aria-hidden=\"true\"></i>
                                     </button>
                                 </header>
-                                <h2>Administração e Economia</h2>
+                                <h2 class=\"text-center\">Administração e Economia</h2>
                                 <div class=\"conteudo collapse\" id=\"adm-eco2\">
                                     <ul>
                                         <li>(Cálculo, Física, Limites, Derivadas, Integrais)</li>
@@ -150,7 +150,7 @@ if ($topMost == __FILE__) {
                                     <button type=\"button\" class=\"btn btn-info\" data-toggle=\"collapse\" data-target=\"#prog\">
                                         <i class=\"fa fa-bug\" aria-hidden=\"true\"></i>
                                     </button>
-                                    <h2>Programação</h2>
+                                    <h2 class=\"text-center\">Programação</h2>
                                 </header>
                                 <div class=\"conteudo collapse\" id=\"prog\">
                                     <ul>
@@ -170,7 +170,7 @@ if ($topMost == __FILE__) {
                                     <button type=\"button\" class=\"btn btn-info\" data-toggle=\"collapse\" data-target=\"#hardware\">
                                         <i class=\"fa fa-desktop\" aria-hidden=\"true\"></i>
                                     </button>
-                                    <h2>Hardware</h2>
+                                    <h2 class=\"text-center\">Hardware</h2>
                                 </header>
                                 <div class=\"conteudo collapse\" id=\"hardware\">
                                     <ul>
