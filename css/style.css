@@ -55,6 +55,8 @@ body {
     background-image: url("../img/eng-dir-prog-bg-low-gray.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
     height: 540px;
 }
 
